@@ -1,0 +1,14 @@
+:root {
+  --primary: #1a844b;
+  --secondary: #df2e38;
+
+  --black: #000000;
+  --white: #ffffff;
+
+  --dark: #222222;
+  --light: #faf6ed;
+
+  --dark-shadow: rgba(0, 0, 0, 0.5);
+
+  --default-font: 'Open Sans', sans-serif;
+}
